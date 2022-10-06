@@ -1,6 +1,6 @@
 public class Test {
     public static void main (String[] args) {
-
+//теперь добавила комментарий
         int[] array = {9, 2, 6, 4, 5, 12, 7, 8, 6};
         int s = array[0];
         for (int i = 1; i < array.length; i++) {
